@@ -69,7 +69,7 @@ a:hover, li:hover {
 h1 {
     font-size: 4rem;
     font-weight: 900;  
-    text-align: center;  
+    text-align: left;  
     text-transform: lowercase;
     font-variant: small-caps;
 }
