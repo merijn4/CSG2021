@@ -143,11 +143,32 @@ h2 {
     width: 25%;
 }
 .plaatje {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
     height: 150px;
     border-style: solid;
     border-color: black;
+    margin-left: 2%;
+    margin-right: 2%;
 }
-
+.sokken {
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.voetbalbroek {
+    display: block;
+    margin-left: auto;
+    margin-right: 85%;
+    margin-bottom: 100%;
+}
+.ultwee {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: rgb(103, 99, 109);
+  font-size: 3rem;
+  width: 40%;
+  color: whitesmoke;
+}
