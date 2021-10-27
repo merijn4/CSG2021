@@ -154,13 +154,14 @@ h2 {
 }
 .sokken {
     margin-top: 4%;
-    margin-left: 100%;
+    margin-right: auto;
+    margin-left: auto;
     display: block;
 }
 .voetbalbroek {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 85%;
     margin-bottom: 100%;
 }
 .ultwee {
@@ -176,4 +177,7 @@ h2 {
 .h3 {
     font-size: 20%;
     text-align: right;
+    margin-right: auto;
+    margin-left: auto;
+
 }
